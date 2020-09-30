@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITSUmbria2020.OnlineGameLibrary", "ITSUmbria2020.OnlineGame\ITSUmbria2020.OnlineGameLibrary.csproj", "{A23AB1B8-8616-4966-B64F-65ED2824B1AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITSUmbria2020.OnlineGame", "ITSUmbria2020.OnlineGame", "{544BB8FC-CB03-4E0E-BC1F-66D77FA288F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITSUmbria2020.Theory", "ITSUmbria2020.Theory", "{787466F9-F8CC-4901-A5DE-195ECF8027D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITSUmbria2020.OnlineGameLibrary.Models", "ITSUmbria2020.OnlineGameLibrary.Models\ITSUmbria2020.OnlineGameLibrary.Models.csproj", "{9E025F2E-FBBA-4271-B0F0-7CAE83CDD936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23AB1B8-8616-4966-B64F-65ED2824B1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23AB1B8-8616-4966-B64F-65ED2824B1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23AB1B8-8616-4966-B64F-65ED2824B1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23AB1B8-8616-4966-B64F-65ED2824B1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E025F2E-FBBA-4271-B0F0-7CAE83CDD936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E025F2E-FBBA-4271-B0F0-7CAE83CDD936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E025F2E-FBBA-4271-B0F0-7CAE83CDD936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E025F2E-FBBA-4271-B0F0-7CAE83CDD936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47A6031-71C7-48B2-9E3A-028DDEEA4709}
+	EndGlobalSection
+EndGlobal
